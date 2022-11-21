@@ -1,0 +1,13 @@
+{
+  "doc": "Sample schema to help you get started.",
+  "fields": [
+    {
+      "doc": "The string is a unicode character sequence.",
+      "name": "drink",
+      "type": "string"
+    }
+  ],
+  "name": "defaulRecord",
+  "namespace": "com.mycorp.mynamespace",
+  "type": "record"
+}

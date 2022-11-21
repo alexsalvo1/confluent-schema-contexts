@@ -1,0 +1,21 @@
+{
+  "doc": "Sample schema to help you get started.",
+  "fields": [
+    {
+      "doc": "The string is a unicode character sequence.",
+      "name": "tea",
+      "type": "string"
+    },{
+      "doc": "The int type is a 32-bit signed integer.",
+      "name": "number",
+      "type": "int"
+    },{
+      "doc": "The string is a unicode character sequence.",
+      "name": "description",
+      "type": "string"
+    }
+  ],
+  "name": "teaRecord",
+  "namespace": "com.mycorp.mynamespace",
+  "type": "record"
+}
